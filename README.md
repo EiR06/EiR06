@@ -10,7 +10,7 @@
 ## Proyek- Proyek
 Di bawah ini adalah beberapa proyek yang pernah saya kerjakan atau sedang dalam pengembangan:
 
--- 1. Sistem Manajemen Koperasi Sekolah
+- 1. Sistem Manajemen Koperasi Sekolah
 
 - Deskripsi: Aplikasi web untuk mengelola transaksi dan stok barang di koperasi sekolah.
 - Teknologi: Laravel, MySQL, Bootstrap
