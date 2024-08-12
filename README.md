@@ -7,6 +7,8 @@
 - Database : MySQL
 - Desain UI/UX : Kodular
 
+!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Flaravel-2&psig=AOvVaw1swZiqD5ZtV9tInmjsKcUp&ust=1723557393247000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDX9oPO74cDFQAAAAAdAAAAABAE)
+
 ## Proyek- Proyek
 Di bawah ini adalah beberapa proyek yang pernah saya kerjakan atau sedang dalam pengembangan:
 
