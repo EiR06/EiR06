@@ -7,7 +7,7 @@
 - Database: MySQL
 - Desain UI/UX: Kodular
 
-# Proyek- Proyek
+## Proyek- Proyek
 Di bawah ini adalah beberapa proyek yang pernah saya kerjakan atau sedang dalam pengembangan:
 
 # 1. Sistem Manajemen Koperasi Sekolah
