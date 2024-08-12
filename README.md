@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @EiR06
-- 👀 I’m interested in Playing Games
-- 🌱 I’m currently learning Laravel
-- ⚡ Fun fact: Handsome
+### Eir06 - Profil GitHub
+## Tentang Saya
+Halo! Saya Ektaf Isfar Robakum, seorang pengembang perangkat lunak yang memiliki minat besar pada pengembangan web. Saya senang mempelajari teknologi baru dan selalu terbuka untuk berkolaborasi dalam proyek-proyek yang menarik.
 
-<!---
-EiR06/EiR06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Keahlian Utama
+Pengembangan Web: HTML, CSS, JavaScript, PHP, Laravel, React, Node.js
+Database: MySQL
+Desain UI/UX: Kodular
+
+# Proyek- Proyek
+Di bawah ini adalah beberapa proyek yang pernah saya kerjakan atau sedang dalam pengembangan:
+
+1. Sistem Manajemen Koperasi Sekolah
+
+- Deskripsi: Aplikasi web untuk mengelola transaksi dan stok barang di koperasi sekolah.
+- Teknologi: Laravel, MySQL, Bootstrap
+
+## Kontribusi
+Saya terbuka untuk kontribusi di proyek-proyek open-source dan selalu siap untuk membantu komunitas pengembang. Jika Anda tertarik untuk berkolaborasi atau memiliki ide proyek menarik, jangan ragu untuk menghubungi saya.
+
+Hubungi Saya
+GitHub: Eir06
