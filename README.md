@@ -4,10 +4,11 @@
 
 ## Keahlian Utama
 - Pengembangan Web : HTML, CSS, JavaScript, PHP, Laravel
+
+  <img src="https://github.com/EiR06/EiR06/blob/main/laravel-2.svg" width="120"></a>
+  
 - Database : MySQL
 - Desain UI/UX : Kodular
-
-<img src="https://github.com/EiR06/EiR06/blob/main/laravel-2.svg" width="120"></a>
 
 ## Proyek- Proyek
 Di bawah ini adalah beberapa proyek yang pernah saya kerjakan atau sedang dalam pengembangan:
