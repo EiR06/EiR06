@@ -1,4 +1,6 @@
+<p align="center">
 ### EiR06 - Profil GitHub
+</p>
 ## Tentang Saya
  - Halo! Saya Ektaf Isfar Robakum, seorang pengembang perangkat lunak yang memiliki minat besar pada pengembangan web. Saya senang mempelajari teknologi baru dan selalu terbuka untuk berkolaborasi dalam proyek-proyek yang menarik.
 
