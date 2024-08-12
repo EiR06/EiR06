@@ -7,7 +7,7 @@
   <br>
   <img src="https://github.com/EiR06/EiR06/blob/main/html.png" width="200">
   <img src="https://github.com/EiR06/EiR06/blob/main/php.png" width="205">
-  <img src="https://github.com/EiR06/EiR06/blob/main/laravel-2.svg" width="120">
+  <img src="https://github.com/EiR06/EiR06/blob/main/laravel-2.svg" width="110">
 - Database : MySQL
 - Desain UI/UX : Kodular
 
