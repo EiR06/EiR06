@@ -4,7 +4,9 @@
 
 ## Keahlian Utama
 - Pengembangan Web : HTML, CSS, JavaScript, PHP, Laravel
+  <br>
   <img src="https://github.com/EiR06/EiR06/blob/main/html.png" width="120"></a>
+  <br>
   <img src="https://github.com/EiR06/EiR06/blob/main/laravel-2.svg" width="120"></a>
   
 - Database : MySQL
