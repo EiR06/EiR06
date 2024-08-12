@@ -19,4 +19,5 @@ Di bawah ini adalah beberapa proyek yang pernah saya kerjakan atau sedang dalam 
 Saya terbuka untuk kontribusi di proyek-proyek open-source dan selalu siap untuk membantu komunitas pengembang. Jika Anda tertarik untuk berkolaborasi atau memiliki ide proyek menarik, jangan ragu untuk menghubungi saya.
 
 ## Hubungi Saya
-GitHub: EiR06
+GitHub : <a rel="noreferrer" target="_new" href="https://github.com/eir06">EiR06</a>
+Email : isfarrobakum@gmail.com
