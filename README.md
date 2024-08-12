@@ -1,4 +1,4 @@
-### Eir06 - Profil GitHub
+### EiR06 - Profil GitHub
 ## Tentang Saya
  - Halo! Saya Ektaf Isfar Robakum, seorang pengembang perangkat lunak yang memiliki minat besar pada pengembangan web. Saya senang mempelajari teknologi baru dan selalu terbuka untuk berkolaborasi dalam proyek-proyek yang menarik.
 
@@ -12,7 +12,7 @@ Di bawah ini adalah beberapa proyek yang pernah saya kerjakan atau sedang dalam 
 
  1. Sistem Manajemen Koperasi Sekolah
 
-- Deskripsi: Aplikasi web untuk mengelola transaksi dan stok barang di koperasi sekolah.
+- Deskripsi: Sistem ini dikembangkan untuk mempermudah pengelolaan transaksi dan stok barang di koperasi sekolah. Fitur utamanya termasuk pencatatan transaksi real-time, pelacakan stok otomatis, dan laporan penjualan.
 - Teknologi: Laravel, MySQL, Bootstrap
 
 ## Kontribusi
