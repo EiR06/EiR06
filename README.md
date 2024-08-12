@@ -3,7 +3,7 @@
  - Halo! Saya Ektaf Isfar Robakum, seorang pengembang perangkat lunak yang memiliki minat besar pada pengembangan web. Saya senang mempelajari teknologi baru dan selalu terbuka untuk berkolaborasi dalam proyek-proyek yang menarik.
 
 ## Keahlian Utama
-- Pengembangan Web : HTML, CSS, JavaScript, PHP, Laravel
+- Pengembangan Web : HTML, CSS, JavaScript, PHP, Laravel, Bootstrap
   <br>
   <img src="https://github.com/EiR06/EiR06/blob/main/html.png" width="200">
   <img src="https://github.com/EiR06/EiR06/blob/main/php.png" width="205">
