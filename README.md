@@ -5,17 +5,17 @@
 
 ### EiR06 - Profil GitHub
 --- 
-Tentang Saya
+## Tentang Saya
  - Halo! Saya Ektaf Isfar Robakum, seorang pengembang perangkat lunak yang memiliki minat besar pada pengembangan web. Saya senang mempelajari teknologi baru dan selalu terbuka untuk berkolaborasi dalam proyek-proyek yang menarik.
 
 --- 
-Keahlian Utama
+## Keahlian Utama
 - Pengembangan Web : HTML, CSS, JavaScript, PHP, Laravel, Bootstrap
 - Database : MySQL
 - Desain UI/UX : Kodular
 
 --- 
-Proyek- Proyek
+## Proyek- Proyek
 Di bawah ini adalah beberapa proyek yang pernah saya kerjakan atau sedang dalam pengembangan:
 
  1. Sistem Manajemen Koperasi Sekolah
@@ -31,7 +31,7 @@ Di bawah ini adalah beberapa proyek yang pernah saya kerjakan atau sedang dalam 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EiR06&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 --- 
-Hubungi Saya
+## Hubungi Saya
 GitHub : <a rel="noreferrer" target="_new" href="https://github.com/eir06">EiR06</a>
 
 Email : isfarrobakum@gmail.com
