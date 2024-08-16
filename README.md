@@ -25,8 +25,6 @@ Di bawah ini adalah beberapa proyek yang pernah saya kerjakan atau sedang dalam 
 ### :fire: Kontribusi :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EiR06&theme=dark&background=000000)](https://git.io/streak-stats)
 
----
-
 ## Hubungi Saya
 GitHub : <a rel="noreferrer" target="_new" href="https://github.com/eir06">EiR06</a>
 
