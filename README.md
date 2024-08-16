@@ -20,8 +20,11 @@ Di bawah ini adalah beberapa proyek yang pernah saya kerjakan atau sedang dalam 
 - Deskripsi : Sistem ini dikembangkan untuk mempermudah pengelolaan transaksi dan stok barang di koperasi sekolah. Fitur utamanya termasuk pencatatan transaksi real-time, pelacakan stok otomatis, dan laporan penjualan.
 - Teknologi : Laravel, MySQL, Bootstrap
 
-## Kontribusi
-Saya terbuka untuk kontribusi di proyek-proyek open-source dan selalu siap untuk membantu komunitas pengembang. Jika Anda tertarik untuk berkolaborasi atau memiliki ide proyek menarik, jangan ragu untuk menghubungi saya.
+---
+
+### :fire: Kontribusi :
+https://github-readme-streak-stats.herokuapp.com/?user=EiR06
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EiR06&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## Hubungi Saya
 GitHub : <a rel="noreferrer" target="_new" href="https://github.com/eir06">EiR06</a>
