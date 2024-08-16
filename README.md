@@ -22,7 +22,7 @@ Di bawah ini adalah beberapa proyek yang pernah saya kerjakan atau sedang dalam 
 ---
 
 ### :fire: Kontribusi :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EiR06)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EiR06&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EiR06&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
