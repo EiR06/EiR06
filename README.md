@@ -1,8 +1,3 @@
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
-<img src="https://komarev.com/ghpvc/?username=EiR06&style=flat-square&color=blue" alt=""/>
-</div>
-
 ## Tentang Saya
  - Halo! Saya Ektaf Isfar Robakum, seorang pengembang perangkat lunak yang memiliki minat besar pada pengembangan web. Saya senang mempelajari teknologi baru dan selalu terbuka untuk berkolaborasi dalam proyek-proyek yang menarik.
 
