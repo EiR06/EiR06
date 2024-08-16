@@ -1,6 +1,5 @@
 ### EiR06 - Profil GitHub
-https://komarev.com/ghpvc/?username=EiR06
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=EiR06&style=flat-square&color=blue" alt=""/>
 ## Tentang Saya
  - Halo! Saya Ektaf Isfar Robakum, seorang pengembang perangkat lunak yang memiliki minat besar pada pengembangan web. Saya senang mempelajari teknologi baru dan selalu terbuka untuk berkolaborasi dalam proyek-proyek yang menarik.
 
