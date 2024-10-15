@@ -4,7 +4,7 @@
 ## Keahlian Utama
 - Pengembangan Web : HTML, CSS, JavaScript, PHP, Laravel, Bootstrap
 - Database : MySQL
-- Desain UI/UX : Kodular
+- Desain UI/UX : Kodular, Mock Flow
  
 ## Proyek- Proyek
 Di bawah ini adalah beberapa proyek yang pernah saya kerjakan atau sedang dalam pengembangan:
