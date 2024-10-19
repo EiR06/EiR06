@@ -18,5 +18,3 @@ Di bawah ini adalah beberapa proyek yang pernah saya kerjakan atau sedang dalam 
 GitHub : <a rel="noreferrer" target="_new" href="https://github.com/eir06">EiR06</a>
 
 Email : isfarrobakum@gmail.com
-
-![EiR github stats](https://github-readme-stats.vercel.app/api?username=EiR06&show_icons=true&theme=radical)
