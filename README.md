@@ -14,7 +14,3 @@ Di bawah ini adalah beberapa proyek yang pernah saya kerjakan atau sedang dalam 
 - Deskripsi : Sistem ini dikembangkan untuk mempermudah pengelolaan transaksi dan stok barang di koperasi sekolah. Fitur utamanya termasuk pencatatan transaksi real-time, pelacakan stok otomatis, dan laporan penjualan.
 - Teknologi : Laravel, MySQL, Bootstrap
 
-## Hubungi Saya
-GitHub : <a rel="noreferrer" target="_new" href="https://github.com/eir06">EiR06</a>
-
-Email : robakumisfar@gmail.com
